@@ -1,0 +1,5 @@
+server:
+  port: 8520
+  servlet:
+    context-path: /config
+  password: wangcai
